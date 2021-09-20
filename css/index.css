@@ -1,0 +1,29 @@
+.wrapper{
+    max-width: 900px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.time{
+    float: left;
+    width: 15%;
+    padding-top: 5%;
+}
+
+
+.btns{
+    float: left;
+    padding-top: 5%;
+}
+
+.status{
+    padding-top: 15%;
+}
+
+.clear{
+    display: block;
+    clear: both;
+    content: '';
+}
